@@ -44,8 +44,8 @@ features:
   <a href="https://github.com/Wukingbow/wu-element-plus/stargazers" target="_blank">
     <img src="https://img.shields.io/github/stars/Wukingbow/wu-element-plus.svg" alt="wu-element-plus">
   </a>
-   <a href="https://www.npmjs.com/package/@Wukingbow/wu-element-plus" target="_blank">
-      <img alt="npm" src="https://img.shields.io/npm/v/@Wukingbow/wu-element-plus.svg" />
+   <a href="https://www.npmjs.com/package/@wukingbow/wu-element-plus" target="_blank">
+      <img alt="npm" src="https://img.shields.io/npm/v/@wukingbow/wu-element-plus.svg" />
     </a>
 </p>
 <h1 style="text-align: center;">Thanks to all the contributors!</h1>

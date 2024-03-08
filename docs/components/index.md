@@ -2,16 +2,16 @@
 
 ::: tip 提示
 
-@Wukingbow/wu-element-plus 基于 vue3 + ts + Element-plus 再次封装的组件
+@wukingbow/wu-element-plus 基于 vue3 + ts + Element-plus 再次封装的组件
 
 :::
 
 ### 安装
 
 ```bash:no-line-numbers
-npm install @Wukingbow/wu-element-plus -S
+npm install @wukingbow/wu-element-plus -S
 &
-pnpm add @Wukingbow/wu-element-plus -S
+pnpm add @wukingbow/wu-element-plus -S
 ```
 
 
@@ -20,8 +20,8 @@ pnpm add @Wukingbow/wu-element-plus -S
 
 ```js
 // main.ts
-import WuElementPlus from '@Wukingbow/wu-element-plus'
-import '@Wukingbow/wu-element-plus/lib/style.css'
+import WuElementPlus from '@wukingbow/wu-element-plus'
+import '@wukingbow/wu-element-plus/lib/style.css'
 const app = createApp(App)
 app.use(WuElementPlus)
 app.mount('#app')
@@ -33,7 +33,7 @@ app.mount('#app')
 // 需要在使用的项目的tsconfig.json文件中添加以下
 compilerOptions：{
   "types": [
-      "@Wukingbow/wu-element-plus/components.d.ts",
+      "@wukingbow/wu-element-plus/components.d.ts",
     ],
 }
 

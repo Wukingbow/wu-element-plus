@@ -1,5 +1,5 @@
 {
-  "name": "@Wukingbow/wu-element-plus",
+  "name": "@wukingbow/wu-element-plus",
   "version": "1.0.0",
   "description": "Vue3 中基于Element-plus二次封装组件文档",
   "author": "Wukingbow",
@@ -73,6 +73,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Wukingbow/wu-element-plus.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "homepage": "https://Wukingbow.github.io/wu-element-plus/",
   "keywords": [

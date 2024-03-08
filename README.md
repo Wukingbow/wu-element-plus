@@ -16,8 +16,8 @@
    <a href="https://github.com/Wukingbow/wu-element-plus/stargazers" target="_blank">
     <img src="https://img.shields.io/github/stars/Wukingbow/wu-element-plus.svg" alt="wu-element-plus">
   </a>
-   <a href="https://www.npmjs.com/package/@Wukingbow/wu-element-plus" target="_blank">
-      <img alt="npm" src="https://img.shields.io/npm/v/@Wukingbow/wu-element-plus.svg" />
+   <a href="https://www.npmjs.com/package/@wukingbow/wu-element-plus" target="_blank">
+      <img alt="npm" src="https://img.shields.io/npm/v/@wukingbow/wu-element-plus.svg" />
     </a>
 </p>
 
@@ -28,7 +28,7 @@
 ## npm 方式安装使用
 
 ```shell
-npm i @Wukingbow/wu-element-plus
+npm i @wukingbow/wu-element-plus
 ```
 
 ## 全局注册使用
@@ -37,8 +37,8 @@ npm i @Wukingbow/wu-element-plus
 
 ```js
 // 在main.js中按下引入
-import WuElementPlus from '@Wukingbow/wu-element-plus'
-import '@Wukingbow/wu-element-plus/lib/style.css'
+import WuElementPlus from '@wukingbow/wu-element-plus'
+import '@wukingbow/wu-element-plus/lib/style.css'
 Vue.use(WuElementPlus)
 ```
 
@@ -46,10 +46,10 @@ Vue.use(WuElementPlus)
 
 ```js
 // 在main.js中按下引入
-import '@Wukingbow/wu-element-plus/lib/style.css'
+import '@wukingbow/wu-element-plus/lib/style.css'
 // 单个.vue文件引入
 <script setup lang="ts">
-  import {WuButton, WuTabs} from "@Wukingbow/wu-element-plus"
+  import {WuButton, WuTabs} from "@wukingbow/wu-element-plus"
 </script>
 ```
 
@@ -59,7 +59,7 @@ import '@Wukingbow/wu-element-plus/lib/style.css'
 // 需要在使用的项目的tsconfig.json文件中添加以下
 compilerOptions：{
   "types": [
-      "@Wukingbow/wu-element-plus/components.d.ts",
+      "@wukingbow/wu-element-plus/components.d.ts",
     ],
 }
 
@@ -78,8 +78,6 @@ npm install -g pnpm
 pnpm install
 
 ```
-
-## 使用[wu-element-plus组件的后台管理系统地址](https://github.com/Wukingbow/Wukingbow-admin)
 
 ## 本地运行 vuepress 中组件文档
 
