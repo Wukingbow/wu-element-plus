@@ -18,7 +18,7 @@ hero:
       link: /components/
     - theme: brand
       text: 组件预览
-      link: /components/TSelect/base.md
+      link: /components/WuButton/base.md
 features:
   # - icon: 🔨
   #   title: 实际项目

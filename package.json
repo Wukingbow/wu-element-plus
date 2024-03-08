@@ -1,6 +1,6 @@
 {
   "name": "@wukingbow/wu-element-plus",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Vue3 中基于Element-plus二次封装组件文档",
   "author": "Wukingbow",
   "license": "MIT",
@@ -14,10 +14,12 @@
     "README.md",
     "LICENSE",
     "lib",
-    "global.d.ts"
+    "global.d.ts",
+    "packages"
   ],
   "scripts": {
     "lib": "rimraf lib && vite build",
+    "build": "vite build",
     "deploy": "deploy.sh",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs"
