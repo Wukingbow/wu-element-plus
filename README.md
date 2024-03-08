@@ -10,8 +10,8 @@
   <a href="https://github.com/vuejs/vue" target="_blank">
     <img src="https://img.shields.io/badge/vue-3.2.36-brightgreen.svg" alt="vue3">
   </a>
-  <a href="https://gitee.com/Wukingbow/wu-element-plus/stargazers" target="_blank">
-    <img src="https://gitee.com/Wukingbow/wu-element-plus/badge/star.svg?theme=dark" alt="wu-element-plus">
+  <a href="https://gitee.com/wujinbao/wu-element-plus/stargazers" target="_blank">
+    <img src="https://gitee.com/wujinbao/wu-element-plus/badge/star.svg?theme=dark" alt="wu-element-plus">
   </a>
    <a href="https://github.com/Wukingbow/wu-element-plus/stargazers" target="_blank">
     <img src="https://img.shields.io/github/stars/Wukingbow/wu-element-plus.svg" alt="wu-element-plus">
